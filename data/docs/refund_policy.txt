@@ -1,0 +1,19 @@
+ACME Store Refund Policy
+
+Eligibility
+You can request a refund within 30 days of the original purchase date. The item must be unused, in its original packaging, and accompanied by the order number or receipt. Items marked as final sale, gift cards, and digital downloads are not eligible for refund.
+
+How to Request a Refund
+Log in to your ACME account, go to Order History, select the order, and click Request Refund. Choose a reason from the dropdown and submit. You will receive a confirmation email with a return shipping label within 24 hours.
+
+Processing Time
+Refunds are processed within 5 to 7 business days after we receive the returned item at our warehouse. The refund is credited to the original payment method. Credit card refunds may take an additional 3 to 5 business days to appear on your statement, depending on your bank.
+
+Damaged or Defective Items
+If your item arrived damaged or defective, contact support within 7 days of delivery. Include photos of the damage. We will issue a full refund or send a replacement at no additional cost. You do not need to return the damaged item in most cases.
+
+Partial Refunds
+Items returned after 30 days but within 60 days are eligible for a partial refund of 70 percent of the purchase price. Items returned in non-original packaging may receive a partial refund at our discretion.
+
+Contact
+Email refunds@acmestore.example with your order number for any questions not covered here.

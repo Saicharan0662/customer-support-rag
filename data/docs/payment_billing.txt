@@ -1,0 +1,25 @@
+ACME Payment and Billing FAQ
+
+Accepted Payment Methods
+We accept Visa, Mastercard, American Express, Discover, Apple Pay, Google Pay, and PayPal. We also accept ACME store credit and gift cards. We do not accept checks, money orders, or cryptocurrency.
+
+Saving Payment Methods
+Saved payment methods are stored securely through our payment processor Stripe. We do not store full card numbers on our servers. You can save up to 5 payment methods per account. Manage saved methods under Account Settings, Payment.
+
+Payment Declined
+The most common reasons for declined payments are insufficient funds, incorrect billing address, expired cards, and bank fraud holds. Verify your card details and billing address match what your bank has on file. If problems continue, contact your bank to confirm there is no hold on the card.
+
+Charges and Authorizations
+When you place an order, we authorize the full amount on your card. The actual charge happens when the order ships. If your order is cancelled before shipping, the authorization releases within 3 to 5 business days, depending on your bank.
+
+Multiple Charges
+Sometimes you may see multiple pending charges if you retried a failed payment. Only one charge will be finalized. Pending duplicate authorizations release automatically within 5 business days. If duplicate charges remain after 7 days, contact support with screenshots.
+
+Tax
+Sales tax is calculated based on the shipping address and applied at checkout. Tax rates vary by state and locality. Orders shipped outside the United States may be subject to import duties and VAT, which are the responsibility of the customer.
+
+Gift Cards
+Gift cards are delivered by email within 1 hour of purchase. Gift cards do not expire. You can apply a gift card at checkout by entering the code in the Promo or Gift Card field. Gift card balances are visible under Account Settings, Store Credit.
+
+Invoices and Receipts
+A receipt is emailed automatically when your order ships. For a formal invoice, go to Order History, select the order, and click Download Invoice. Business customers can add a tax ID to their account under Account Settings, Profile.

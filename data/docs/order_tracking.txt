@@ -1,0 +1,22 @@
+ACME Order Tracking Guide
+
+Finding Your Order Number
+Your order number appears in the order confirmation email subject line and at the top of the email body. It starts with ACM followed by 8 digits, for example ACM12345678. You can also find it under Order History in your account.
+
+Tracking Your Order
+Log in to your account, go to Order History, and click View Details on the order. Tracking information appears once the order ships. You can also use the tracking number directly on the carrier website.
+
+Order Statuses
+Processing means we received your order and payment cleared. Preparing means the warehouse team is picking and packing your items. Shipped means the package left the warehouse and a tracking number is available. Out for Delivery means the package is on a truck for delivery today. Delivered means the carrier confirmed delivery.
+
+Changing or Cancelling an Order
+You can cancel an order while it is in Processing status. Go to Order History, select the order, and click Cancel. Once an order moves to Preparing or later, cancellation is not possible. You can refuse delivery or initiate a return after delivery.
+
+Wrong Address
+If you entered the wrong shipping address, contact support immediately. We can update the address only while the order is in Processing status. After shipping, the package will be delivered to the original address. You will need to redirect through the carrier, which may incur a fee.
+
+Missing Items
+If your package arrived missing an item, check the packing slip first. Some orders ship in multiple packages. If the packing slip lists the missing item, contact support with your order number and a photo of the received items.
+
+Delivery Confirmation
+The carrier marks a package as delivered when it is dropped at the shipping address. If your tracking shows delivered but you cannot find the package, check with neighbors and around the property. If not found within 24 hours, contact support to start a missing package investigation.

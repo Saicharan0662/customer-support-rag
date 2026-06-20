@@ -1,0 +1,22 @@
+ACME Account Setup Guide
+
+Creating an Account
+Go to acmestore.example/signup. Enter your email address, choose a password of at least 12 characters, and confirm your password. You will receive a verification email within 5 minutes. Click the verification link to activate your account.
+
+Password Requirements
+Passwords must contain at least 12 characters, one uppercase letter, one lowercase letter, one number, and one special character. We do not allow common passwords or passwords reused from known data breaches. We check against the Have I Been Pwned database during signup.
+
+Two-Factor Authentication
+We strongly recommend enabling two-factor authentication. Go to Account Settings, click Security, and select Enable 2FA. You can use an authenticator app like Google Authenticator or Authy. SMS-based 2FA is available but less secure.
+
+Forgot Password
+Click Forgot Password on the login page. Enter your email address. You will receive a password reset link valid for 1 hour. If you do not receive the email within 10 minutes, check your spam folder or contact support.
+
+Updating Your Email
+Go to Account Settings, click Profile, and update your email address. You must verify the new email before the change takes effect. Your old email remains active until verification completes.
+
+Deleting Your Account
+Go to Account Settings, scroll to the bottom, and click Delete Account. Account deletion is permanent and removes all order history, saved addresses, and payment methods. Pending orders must be completed or cancelled before account deletion.
+
+Account Security
+We never ask for your password by email or phone. Report any suspicious messages claiming to be from ACME to security@acmestore.example.
